@@ -20,8 +20,10 @@ Using this tool can help managers:
 
 ## Download
 
-You can download the Excel file containing the Project Priority Matrix from the following link:
-[Download Excel File](https://github.com/SMDWebWiz/Project-Priority-Matrix)
+You can download the Excel file containing the Project Priority Matrix from the following link:[Download Excel File](https://github.com/SMDWebWiz/Project-Priority-Matrix/raw/main/Project-Priority-Matrix.xlsx)
+
+
+
 
 ---
 
