@@ -22,7 +22,7 @@ Using this tool can help managers:
 
 You can download the Excel file containing the Project Priority Matrix from the following link:[Download Excel File](https://github.com/SMDWebWiz/Project-Priority-Matrix/raw/main/Project%20Priority%20Matrix_Beautified.xlsx)
 
-
+![demo](https://github.com/SMDWebWiz/Project-Priority-Matrix/blob/main/ppm.png)
 
 
 ---
